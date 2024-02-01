@@ -1,3 +1,5 @@
 (fp_lib_table
-  (lib (name mico)(type KiCad)(uri ${KIPRJMOD}/mico.pretty)(options "")(descr ""))
+  (version 7)
+  (lib (name "mico")(type "KiCad")(uri "${KIPRJMOD}/mico.pretty")(options "")(descr ""))
+  (lib (name "usbc")(type "KiCad")(uri "${KIPRJMOD}/easyeda2kicad.pretty")(options "")(descr ""))
 )

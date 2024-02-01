@@ -1,3 +1,6 @@
 (sym_lib_table
-  (lib (name mico)(type Legacy)(uri ${KIPRJMOD}/mico.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "mico")(type "Legacy")(uri "${KIPRJMOD}/mico.lib")(options "")(descr ""))
+  (lib (name "mico-rescue")(type "KiCad")(uri "${KIPRJMOD}/mico-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "usbc")(type "KiCad")(uri "${KIPRJMOD}/easyeda2kicad.kicad_sym")(options "")(descr ""))
 )
